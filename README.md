@@ -2,7 +2,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=rafagamingandvlog&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F74848160%3Fu%3Da58f812f20ad44958bbc95f9bebda65c045c78c6%26v%3D4" alt="rafagamingandvlog hero visual" />
 </p>
 
-<p align="center"><b>Skulli's</b> · Backend or systems engineer<br/><sub>intermediate Coder. Making A lot of python projects and working on a minecraft &amp; roblox projects</sub></p>
+<p align="center"><b>Skulli's</b> · Python Developer<br/><sub>intermediate Coder. Making A lot of python projects and working on a minecraft &amp; roblox projects</sub></p>
 
 <p align="center"><a href="https://github.com/rafagamingandvlog">GitHub</a></p>
 
