@@ -1,59 +1,68 @@
-# RafaGAmingandvlog
-
-> Learning velocity and project potential.
-
-**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
-
-## Header
-Hi, I'm **RafaGAmingandvlog**. This README is tuned for **student** with a GitHub visual system.
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=RafaGAmingandvlog&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=RafaGAmingandvlog&theme=github-dark" alt="RafaGAmingandvlog hero section" />
-  </picture>
-</p>
-## About Me
-Shapes the short profile story and positioning.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=RafaGAmingandvlog&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=RafaGAmingandvlog&theme=github-dark" alt="RafaGAmingandvlog about section" />
-  </picture>
-</p>
-## Skills
-Selected stack and skill badges will be generated from the GitHub profile and README strategy.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=RafaGAmingandvlog&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=RafaGAmingandvlog&theme=github-dark" alt="RafaGAmingandvlog stack section" />
-  </picture>
-</p>
-## GitHub Stats
-GitSkins stat widgets will use the **GitHub** theme.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=RafaGAmingandvlog&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=RafaGAmingandvlog&theme=github-dark" alt="RafaGAmingandvlog stats section" />
-  </picture>
-</p>
-## Projects
-Highlights repositories as proof of work.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=RafaGAmingandvlog&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=RafaGAmingandvlog&theme=github-dark" alt="RafaGAmingandvlog projects section" />
-  </picture>
-</p>
-## Heatmap
-Animated year-long contribution calendar.
-## Connect
-> Editing this section in the inspector.
-Contact and social links will appear here.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=RafaGAmingandvlog&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=RafaGAmingandvlog&theme=github-dark" alt="RafaGAmingandvlog social section" />
-  </picture>
+  <img src="https://www.gitskins.com/api/section/hero?username=rafagamingandvlog&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F74848160%3Fu%3Da58f812f20ad44958bbc95f9bebda65c045c78c6%26v%3D4" alt="rafagamingandvlog hero visual" />
 </p>
 
-<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Heatmap, Connect -->
+<p align="center"><b>Skulli's</b> · Backend or systems engineer<br/><sub>intermediate Coder. Making A lot of python projects and working on a minecraft &amp; roblox projects</sub></p>
+
+<p align="center"><a href="https://github.com/rafagamingandvlog">GitHub</a></p>
+
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=rafagamingandvlog&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F74848160%3Fu%3Da58f812f20ad44958bbc95f9bebda65c045c78c6%26v%3D4" alt="rafagamingandvlog projects visual" />
+</p>
+
+- [Dinopedia-Projects](https://github.com/RafaGAmingandvlog/Dinopedia-Projects) · ★ 0 — A Modern-App Dinopedia to explore dinosaur using Python OOP + Pyside6
+- [Fake-News-Detector](https://github.com/RafaGAmingandvlog/Fake-News-Detector) · ★ 0 — A machine learning-based Fake News Detector built with Python and NLP techniques. This project uses 
+- [Aritmathic-Projects](https://github.com/RafaGAmingandvlog/Aritmathic-Projects) · ★ 0 — A Project full of basic aritmathic (30 questions)
+- [Typing-Speed-Tester](https://github.com/RafaGAmingandvlog/Typing-Speed-Tester) · ★ 0 — A modern typing speed testing application built with Python, CustomTkinter, SQLite, and Matplotlib. 
+- [RafaGAmingandvlog](https://github.com/RafaGAmingandvlog/RafaGAmingandvlog) · ★ 0 — My GitHub profile
+- [Youtube-Downloader](https://github.com/RafaGAmingandvlog/Youtube-Downloader) · ★ 0 — A python program that works like a video downloader from youtube
+
+</details>
+
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=rafagamingandvlog&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F74848160%3Fu%3Da58f812f20ad44958bbc95f9bebda65c045c78c6%26v%3D4" alt="rafagamingandvlog stack visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
+
+<b>6</b> public repositories, <b>0</b> stars, <b>25</b> contributions in the last year, a longest streak of <b>2</b> days and <b>1</b> followers.
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=rafagamingandvlog&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F74848160%3Fu%3Da58f812f20ad44958bbc95f9bebda65c045c78c6%26v%3D4" alt="rafagamingandvlog stats visual" />
+</p>
+
+</details>
+
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=rafagamingandvlog&theme=neon" alt="rafagamingandvlog contribution activity" />
+</p>
+
+</details>
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=rafagamingandvlog&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F74848160%3Fu%3Da58f812f20ad44958bbc95f9bebda65c045c78c6%26v%3D4" alt="rafagamingandvlog social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>Skulli's · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
